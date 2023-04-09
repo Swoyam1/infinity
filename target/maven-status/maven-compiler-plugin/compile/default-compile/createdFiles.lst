@@ -1,0 +1,5 @@
+com\servers\KaiburrApplication.class
+com\servers\model\Servers.class
+com\servers\resource\ServersController.class
+com\servers\repository\ServersRepository.class
+com\servers\resource\ServerNotFoundException.class
